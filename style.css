@@ -79,17 +79,4 @@ footer{
     margin-left: 1em;
 }
 
-/* MEDIA QUERIES */
 
-@media screen and (max-width: 400px) {
- 
-    nav a {
-       display: none;
-     }
-
-     .btns_container {
-        display: none;
-      }
-       main >img {
-           margin: 0;
-       }
